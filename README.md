@@ -5,7 +5,7 @@ A professional **crypto exchange inspired landing page** with financial UI eleme
 ---
 
 ## 🚀 Live Demo  
-🔗 https://omkarghare8.github.io/web3-blockchain-startup-landing-page-template-v6/
+🔗 https://omkarghare8.github.io/web3-blockchain-landing-page-template-v6/
 
 ---
 
